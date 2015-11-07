@@ -58,3 +58,6 @@ target/
 
 # Models
 models/
+
+# IPython checkpoints
+notebooks/.ipynb_checkpoints
