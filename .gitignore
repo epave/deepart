@@ -57,7 +57,9 @@ docs/_build/
 target/
 
 # Models
-models/*
+models/
 
 # IPython checkpoints
 .ipynb_checkpoints
+
+notebooks/.ipynb_checkpoints/
